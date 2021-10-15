@@ -13,5 +13,8 @@ html {
   box-sizing: inherit;
 }
 
-.body {
+.icon {
+  position: relative;
+  height: 8rem;
+  width: 8rem;
 }
